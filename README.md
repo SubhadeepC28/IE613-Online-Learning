@@ -1,6 +1,6 @@
 # IE613-Online-Learning-Assignments
 
-### This repo contains the solutions for assignments from the course IE613 Online Learning, offered by the Dept. of IEOR, IIT Bombay. 
+### This repo contains the solutions for assignments from the course [IE613 Online Learning](https://www.youtube.com/playlist?list=PLOzRYVm0a65e3aS_ThcTu3xWKex9hzAJ-), offered by the Dept. of IEOR, IIT Bombay. 
 - Number of assignments: 3
 - Scores obtained in each assignment:
 > - Assignment 1: 99/100
