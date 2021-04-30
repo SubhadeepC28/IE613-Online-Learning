@@ -5,4 +5,4 @@
 - Scores obtained in each assignment:
 > - Assignment 1: 99/100
 > - Assignment 2: 76.5/80
-> - Assignment 3: TBD 
+> - Assignment 3: 15/15
